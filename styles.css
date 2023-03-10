@@ -31,7 +31,7 @@ body{
 .inner-container input{
     background: #f1f1f1;
     font-size: 16px;
-    width: 40%;
+    width: 100%;
     padding: 8px 12px;
     border-radius: 5px;
     outline: none;
@@ -42,8 +42,8 @@ body{
     display: flex;
 }
 .input1 label{
-    width: 40%;
-    margin-right: 10px;
+    width: 60%;
+    margin-right: 30px;
     text-align: start;
 }
 .btn{
